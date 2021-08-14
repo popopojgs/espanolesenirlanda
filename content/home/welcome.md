@@ -16,6 +16,11 @@ design:
   # Add custom styles
   css_style:
   css_class:
+cta:
+  url: 'https://wowchemy.com'
+  label: Get Started
+  icon_pack: fas
+  icon: book
 ---
 
 <br>
