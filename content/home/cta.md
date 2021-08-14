@@ -1,7 +1,7 @@
 ---
-title:
-subtitle:
-widget: blank
+title: Title test
+subtitle: Subtitle test
+widget: hero
 headless: true
 weight: 40
 design:
