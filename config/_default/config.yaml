@@ -11,7 +11,7 @@ copyright: '© {year} Hecho con amor por Javier G. Salcedo ' # Footer text, e.g.
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: es
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
