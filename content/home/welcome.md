@@ -17,14 +17,12 @@ design:
   css_style:
   css_class:
 cta:
-  url: 'salcedo.gumroad.com/l/iIxJR'
+  url: 'https://salcedo.gumroad.com/l/iIxJR'
   label: Reserva tu copia gratuita
   icon_pack: fas
-  icon: book
+  icon: gift
 ---
 
 <br>
-
-La página está en proceso de pruebas y testeo, pero se espera una versión beta para Septiembre.
 
 Estamos trabajando para recopilar información importante y poder traer guías relevantes con consejos de gente **con expriencia**. La primera se estrena el **1 de Septiembre**.
