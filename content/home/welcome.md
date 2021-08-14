@@ -17,12 +17,14 @@ design:
   css_style:
   css_class:
 cta:
-  url: 'https://wowchemy.com'
-  label: Get Started
+  url: 'salcedo.gumroad.com/l/iIxJR'
+  label: Reserva tu copia gratuita
   icon_pack: fas
   icon: book
 ---
 
 <br>
 
-La página **Españoles En Irlanda** está en proceso de pruebas y testeo, pero se espera una versión beta para Septiembre.
+La página está en proceso de pruebas y testeo, pero se espera una versión beta para Septiembre.
+
+Estamos trabajando para recopilar información importante y poder traer guías relevantes con consejos de gente **con expriencia**. La primera se estrena el **1 de Septiembre**.
