@@ -26,7 +26,7 @@ content:
       captcha: true
 
 design:
-  columns: '2'
+  columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Si quieres participar aportando información, escribiendo algún artículo, sugeriendo mejoras o proponiendo una colaboracion, tan solo hace falta que rellenes el formulario y nos contactes rápidamente. Siempre es un placer escuchar compañeros y toda ayuda es bien recibida.
