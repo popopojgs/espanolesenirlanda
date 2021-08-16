@@ -1,7 +1,7 @@
 ---
 title: Javier G.  Salcedo
 role: Devops Engineer
-avatar_filename: photo_2020-09-23_17-06-00.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include systems, developing solutions and help people.
 interests:
   - Systems
