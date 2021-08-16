@@ -36,12 +36,16 @@ twitter: ''
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+# appointment_url: 'https://calendly.com'
 contact_links:
  - icon: comments
    icon_pack: fas
-   name: Discuss on Forum
-   link: 'https://discourse.gohugo.io'
+   name: 'Españoles en Galway [Grupo]'
+   link: 'https://t.me/galwayesp'
+ - icon: telegram-plane
+   icon_pack: fab
+   name: 'Españoles en Galway [Canal]'
+   link: 'https://t.me/spanisharch'
 
 # Site header
 
