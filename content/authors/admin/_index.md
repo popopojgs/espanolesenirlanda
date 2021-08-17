@@ -36,7 +36,7 @@ organizations: [Soti Inc.]
 email: ""
 superuser: true
 user_groups:
-  - Technical team
+  - Researchers
 highlight_name: false
 ---
 Javier Gonzalez Salcedo es el autor de la página web espanolesenirlanda.com. Vino a Irlanda como Erasmus y actualmente reside en Galway donde trabaja como Soporte Técnico Especializado L1. 
