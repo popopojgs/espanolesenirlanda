@@ -7,8 +7,8 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  Españoles  
-  En Irlanda
+  Spaniards  
+  In Ireland
 hero_media: ireland.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -18,11 +18,11 @@ design:
   css_class:
 cta:
   url: 'https://salcedo.gumroad.com/l/iIxJR'
-  label: Reserva tu copia gratuita
+  label: Get your free copy
   icon_pack: fas
   icon: gift
 ---
 
 <br>
 
-Estamos trabajando para recopilar información importante y poder traer guías relevantes con consejos de gente **con expriencia**. La primera se estrena el **1 de Septiembre**.
+We are working to gather important information and bring you relevant guides with advice from **experienced** people. The first one will be released on **September 1st**.
