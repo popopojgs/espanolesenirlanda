@@ -5,17 +5,17 @@
 
 main:
   - name: Noticias
-    url: 
+    url: #post
     weight: 20
   - name: Nosotros
-    url: people
+    url: #people
     weight: 30
   - name: Eventos
-    url: event
+    url: #event
     weight: 40
   - name: Publicaciones
-    url: publication
+    url: #publication
     weight: 50
   - name: Contacto
-    url: contact
+    url: #contact
     weight: 60
