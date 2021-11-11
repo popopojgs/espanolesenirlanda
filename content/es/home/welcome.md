@@ -17,12 +17,13 @@ design:
   css_style:
   css_class:
 cta:
-  url: 'https://salcedo.gumroad.com/l/iIxJR'
-  label: Reserva tu copia gratuita
+  url: 'https://1a90bf14.sibforms.com/serve/MUIEAAKr-Vv7FzWNrgLp3BJMRG4-HVXgSXxyxBb4Fh1I40wG_ahXhvR6YQQOb-Z8PrQKapn4CnBVp_TxQTic0XxTBUMzfaAmj53jxtoMgcgcn9KhTCn_f_I8YPt__l3Qz-DZbzZ9A7rgIHnZhg0IhPPahEGvJjCbRiUdZAC3woVO80gn2wQIeQ-Y5q4StykaUfITg4HPNsFKxYH3'
+  label: Quiero unirme a la lista  de espera gratis!
   icon_pack: fas
-  icon: gift
+  icon: fas fa-rocket
 ---
 
 <br>
 
-Estamos trabajando para recopilar información importante y poder traer guías relevantes con consejos de gente **con expriencia**. La primera se estrena el **1 de Septiembre**.
+Estamos recopilado información importante y poder traerte guías **útiles y de calidad**.
+Reserva tu hueco con la lista suscribiendote abajo
