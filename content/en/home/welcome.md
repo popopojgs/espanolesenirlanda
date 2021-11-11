@@ -17,7 +17,7 @@ design:
   css_style:
   css_class:
 cta:
-  url: 'https://salcedo.gumroad.com/l/iIxJR'
+  url: 'https://1a90bf14.sibforms.com/serve/MUIEAAKr-Vv7FzWNrgLp3BJMRG4-HVXgSXxyxBb4Fh1I40wG_ahXhvR6YQQOb-Z8PrQKapn4CnBVp_TxQTic0XxTBUMzfaAmj53jxtoMgcgcn9KhTCn_f_I8YPt__l3Qz-DZbzZ9A7rgIHnZhg0IhPPahEGvJjCbRiUdZAC3woVO80gn2wQIeQ-Y5q4StykaUfITg4HPNsFKxYH3'
   label: Get your free copy
   icon_pack: fas
   icon: gift
