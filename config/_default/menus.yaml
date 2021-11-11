@@ -5,7 +5,7 @@
 
 main:
   - name: Noticias
-    url: post
+    url: 
     weight: 20
   - name: Nosotros
     url: people
