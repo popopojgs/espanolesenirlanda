@@ -22,7 +22,6 @@ cta:
   icon_pack: fas
   icon: fas fa-rocket
 ---
-
 <br>
 
 Estamos recopilado información importante y poder traerte guías **útiles y de calidad**.
