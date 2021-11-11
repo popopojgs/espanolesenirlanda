@@ -26,4 +26,5 @@ cta:
 <br>
 
 Estamos recopilado información importante y poder traerte guías **útiles y de calidad**.
-Reserva tu hueco con la lista suscribiendote abajo
+
+Unete a la lista de espera y tendrás noticias nuestras pronto!

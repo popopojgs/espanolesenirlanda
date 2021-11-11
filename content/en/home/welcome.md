@@ -26,4 +26,5 @@ cta:
 <br>
 
 We are gathering important information to bring you **handy and quality** guides.
+
 Join the waitlist to get news from us soon
