@@ -17,7 +17,7 @@ design:
   css_style:
   css_class:
 cta:
-  url: 'https://1a90bf14.sibforms.com/serve/MUIEAAKr-Vv7FzWNrgLp3BJMRG4-HVXgSXxyxBb4Fh1I40wG_ahXhvR6YQQOb-Z8PrQKapn4CnBVp_TxQTic0XxTBUMzfaAmj53jxtoMgcgcn9KhTCn_f_I8YPt__l3Qz-DZbzZ9A7rgIHnZhg0IhPPahEGvJjCbRiUdZAC3woVO80gn2wQIeQ-Y5q4StykaUfITg4HPNsFKxYH3'
+  url: 'https://1a90bf14.sibforms.com/serve/MUIEAI23Ruq1JRpE2aHOJcgiOJlQ6MLnxXpau0cHNbuIu41TB9hsCFCLcrOfVcMAZHAdunl93P0INIe2k6C-UF-yNOblot-HqHz9rUP0DMNv0M3n__w6-62Gj6a9Ux84Y9yz-Qbxw3s11GvbMzEVH04eVY0BstUkqIRN0Lhx5PxZMYUGGGTHeemEPTFZhsvyiURgym9Jgo4LpqPD'
   label: Quiero unirme a la lista  de espera gratis!
   icon_pack: fas
   icon: fas fa-rocket
