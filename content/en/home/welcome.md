@@ -18,11 +18,11 @@ design:
   css_class:
 cta:
   url: 'https://1a90bf14.sibforms.com/serve/MUIEAAKr-Vv7FzWNrgLp3BJMRG4-HVXgSXxyxBb4Fh1I40wG_ahXhvR6YQQOb-Z8PrQKapn4CnBVp_TxQTic0XxTBUMzfaAmj53jxtoMgcgcn9KhTCn_f_I8YPt__l3Qz-DZbzZ9A7rgIHnZhg0IhPPahEGvJjCbRiUdZAC3woVO80gn2wQIeQ-Y5q4StykaUfITg4HPNsFKxYH3'
-  label: Get your free copy
+  label: Join the waitlist
   icon_pack: fas
-  icon: fa-rocket
+  icon: fas fa-rocket
 ---
 
 <br>
 
-We are working to gather important information and bring you relevant guides with advice from **experienced** people. Don't forget to **click on the link below** to get weekly post when this page is ready.
+We are working to gather important information and bring you relevant guides with advice from **experienced** people.
